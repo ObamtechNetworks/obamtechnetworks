@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a software engineering student at ALX SE<br>I'm a passionate tech enthusiast and openminded learner<br>I value honest relationship and genuine acts<br>I am opening to learning and ready to learn
+Currently a software engineering student at ALX SE<br>I'm a passionate tech enthusiast and openminded learner<br>I value honest relationship and genuine acts<br>I am open to learning and ready to learn
 
 
 ## 🌐 Socials:
