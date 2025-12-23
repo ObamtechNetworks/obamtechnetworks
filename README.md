@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Bamidele Michael<br>- 📚 I'm currently a software engineering student @ALX_SE<br>- ⚡ In my free time I code and explore new concepts</p>
+<p align="left">My name is Bamidele Michael<br>- A Software Engineer and a Technical Product Manager<br>- ⚡ In my free time I code and explore new concepts</p>
 
 ###
 
